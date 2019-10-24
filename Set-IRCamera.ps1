@@ -3,8 +3,6 @@
 	===========================================================================
 	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2017 v5.4.145
 	 Created on:   	12/4/2017 2:56 PM
-	 Created by:   	Matthew Nelson
-	 Organization: 	Florida State University
 	 Filename:     	Set-IRCamera	
 	===========================================================================
 	.DESCRIPTION
